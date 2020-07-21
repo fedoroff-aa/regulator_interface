@@ -59,7 +59,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.10.1",
     "jquery": "^3.5.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "net": "^1.0.2",
     "normalize.css": "^8.0.1",
     "react": "^16.13.1",
